@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.part3 {
+    width: 1916px;
+    height:968px;
+    background-image: linear-gradient(90deg, #8A62AC, #C4C4C4);
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.imagetestimonials {
+    position: absolute;
+    left: 102px;
+    top: 89px;
+    height:70px;
+    width: 70px;
+}
+
+.titletest {
+    font-weight: bold;
+    font-size: 60px;
+    color: white;
+    position: absolute;
+    top: 89px;
+    left: 227px;
+    font-family: 'Roboto';
+}
+
+.texttest {
+    font-size: 24px;
+    line-height: 48px;
+    color: white;
+    position: absolute;
+    left: 227px;
+    top: 184.76px;
+    width: 1280.48px;
+    height: 84.24px;
+    font-family: 'Roboto';
+    
+}
+
+.testrect1 { 
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    float: left;
+    height: 614px;
+    width: 466.45px;
+    background-color: white;
+    top: 354px;
+    left:226.73px
+}
+
+.testrect2 {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    float: left;
+    height: 614px;
+    width: 466.45px;
+    background-color: white;
+    top: 354px;
+    left: 723.14px;
+    
+}
+
+.testrect3 {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    float: left;
+    height: 614px;
+    width: 466.45px;
+    background-color: white;
+    top: 354px;
+    left: 1218.55px;
+}    
+
+
+.avatar1, .avatar2, .avatar3{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 265px;
+    height: 265px;
+    border-radius: 50px;
+    top: 33px;
+}
+
+.testimonials{
+    font-size: 32px;
+    font-weight: bold;
+    position: absolute;
+    top: 329px;
+    font-family: 'Roboto';
+}
+
+.abouttestimonials{
+    font-size: 18px;
+    line-height: 48px;
+    position: absolute;
+    top: 390px;
+    width: 394.53px;
+    height: 92px;
+    justify-content:space-around ;
+    font-family: 'Roboto';
+}
